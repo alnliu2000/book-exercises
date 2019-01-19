@@ -2,7 +2,7 @@
 
 # Create a variable `hometown` that stores the city in which you were born
 
-hometown <- Taipei
+hometown <- "Taipei"
 
 # Assign your name to the variable `my_name`
 my_name <- "Alan Liu"
